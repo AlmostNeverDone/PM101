@@ -30,12 +30,12 @@ First, we decomposed the project into major deliverables, then into smaller task
 - <b>UniSQ Cloud Software Portal (UniSQ 雲端軟體)</b>
 
 Tasks:
-- <b>Navigate the Interface and Create a New Project. (瀏覽介面並建立新項目)</b>
-- <b>Define The First Task: Utilize assignee, duration, dates, complete status, and customize a grid view. (定義第一個任務：利用任務分配人、時長、日期、完成狀態，並自訂網格視圖)</b>
-- <b>Use Board View, buckets, and customize cards using labels, priorities, and checklists. (使用看板視圖、儲存桶，並使用標籤、優先順序和清單自訂卡片)</b>
-- <b>Establish Task Relationships and Dependencies. (建立任務關係和依賴關係)</b>
-- <b>Practice Activity: Create and describe a task. (練習活動：建立並描述一項任務)</b>
-- <b>Utilize the Gantt view and make a project report in the Charts view. (利用甘特圖視圖，並在圖表視圖中建立專案報告)</b>
+- <b>Sign in to our Google Drive account (or create one) and open a Google Sheet. (登入或建立 Google Drive 帳戶並開啟 Google Sheet)</b>
+- <b>List the main components and subcomponents of our project. (列出項目的主要組件和子組件)</b>
+- <b>Select a structure that works for our environment and is compliant with our organizational standards. (選擇適合環境且符合組織標準的結構)</b>
+- <b>Organize the major components and subcomponents into the selected structure, using the rules of WBS creation. (使用 WBS 建立規則，將主要元件和子元件組織到選定的結構中)</b>
+- <b>Review our WBS for correctness, completeness, consistency, and clarity. (檢視 WBS 的正確性、完整性、一致性和清晰度)</b>
+- <b>Create a WBS dictionary. (建立 WBS 字典)</b>
 
 <h2>Practice 實踐</h2>
 
