@@ -14,10 +14,15 @@ First, we decomposed the project into major deliverables, then into smaller task
 
 <h2>Objectives 目的</h2>
 
-- <b>Navigate the Microsoft Projects interface while applying key components like tasks, resources, and calendar. (瀏覽 Microsoft Projects 介面，並套用任務、資源和行事曆等關鍵元件)</b>
-- <b>Build task relationships and set up task statuses to manage working processes. (建立任務關係並設定任務狀態以管理工作流程)</b> 
-- <b>Utilize Gantt charts and other views to visualize project timelines and progress. (利用甘特圖和其他視圖來視覺化專案時間表和進度)</b> 
+- <b>Brainstorm with our team and list the major components and subcomponents, major deliverables, and the milestones for your project.(與我們的團隊集思廣益，列出專案的主要組成部分、子組成部分、主要交付標的以及里程碑)</b>
 
+- <b>Select a structure for our WBS that works for the project and that is compliant with any Standard used in the organization. (為我們的 WBS 選擇一個適合專案且符合組織所用任何標準的結構)</b> 
+
+- <b>Organize the major components of our project into the structure selected and decompose them into subcomponents. (將專案的主要組成部分組織到選定的結構中，並將其分解為子組件)</b> 
+
+- <b>Review WBS for correctness, completeness, consistency, and clarity. (審查 WBS 的正確性、完整性、一致性和清晰度)</b> 
+
+- <b>Create a WBS dictionary. (建立 WBS 字典)</b>
 
 <h2>Materials and Methods 材料與方法</h2>
 
