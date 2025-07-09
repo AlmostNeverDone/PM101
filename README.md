@@ -27,7 +27,7 @@ First, we decomposed the project into major deliverables and then into smaller t
 <h2>Materials and Methods 材料與方法</h2>
 
 - <b>[Coursera platform (Coursera 線上學習平台)](https://www.coursera.org/)</b> 
-- <b>UniSQ Cloud Software Portal (UniSQ 雲端軟體)</b>
+- <b>Google Drive account (Google Drive 帳戶)</b>
 
 Tasks:
 - <b>Sign in to our Google Drive account (or create one) and open a Google Sheet. (登入或建立 Google Drive 帳戶並開啟 Google Sheet)</b>
