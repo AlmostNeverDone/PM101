@@ -40,26 +40,30 @@ Tasks:
 <h2>Practice 實踐</h2>
 
 <p align="center">
-Task 1: Install and set up Wireshark on Ubuntu (在 Ubuntu 上安裝並設定 Wireshark) <br/>
+Task 1: Sign in to our Google Drive account (or create one) and open a Google Sheet. (登入或建立 Google Drive 帳戶並開啟 Google Sheet) <br/>
 <img src="https://i.imgur.com/NXBzFip.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 2: Start a packet capture on an ethernet port and save it to file (在乙太網路連接埠上啟動封包擷取並將其儲存到檔案中)  <br/>
+Task 2: List the main components and subcomponents of our project. (列出項目的主要組件和子組件)  <br/>
 <img src="https://i.imgur.com/wQ1eb8n.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 3: Use a display filter to detect HTTPS packets (使用顯示過濾器檢測 HTTPS 封包) <br/>
+Task 3: Select a structure that works for our environment and is compliant with our organizational standards. (選擇適合環境且符合組織標準的結構) <br/>
 <img src="https://i.imgur.com/ftcogGB.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 4: Visit a web page and detect its IP address using a display filter (造訪網頁並使用顯示過濾器偵測其 IP 位址) <br/>
+Task 4: Organize the major components and subcomponents into the selected structure, using the rules of WBS creation. (使用 WBS 建立規則，將主要元件和子元件組織到選定的結構中) <br/>
 <img src="https://i.imgur.com/1NwFWYB.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Task 5: Locate all HTTPS packets from a capture not containing a certain IP address (尋找擷取中不包含特定 IP 位址的所有 HTTPS 封包) <br/>
+Task 5: Review our WBS for correctness, completeness, consistency, and clarity. (檢視 WBS 的正確性、完整性、一致性和清晰度) <br/>
 <img src="https://i.imgur.com/budqLQX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-
+<br />
+Task 6: Create a WBS dictionary. (建立 WBS 字典) <br/>
+<img src="https://i.imgur.com/budqLQX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+  
 <h2>Reference 參考</h2>
 
 <1> [UniSQ] [CIS5310 - IS/ICT Project Management](https://handbook-guide.unisq.edu.au/course/2025/CIS5310)
