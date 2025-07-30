@@ -41,27 +41,27 @@ Tasks:
 
 <p align="center">
 Task 1: Sign in to our Google Drive account (or create one) and open a Google Sheet. (登入或建立 Google Drive 帳戶並開啟 Google Sheet) <br/>
-<img src="https://i.imgur.com/NXBzFip.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/soveYBo.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 2: List the main components and subcomponents of our project. (列出項目的主要組件和子組件)  <br/>
-<img src="https://i.imgur.com/wQ1eb8n.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7DY1YkL.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 3: Select a structure that works for our environment and is compliant with our organizational standards. (選擇適合環境且符合組織標準的結構) <br/>
-<img src="https://i.imgur.com/ftcogGB.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nOjBkda.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 4: Organize the major components and subcomponents into the selected structure, using the rules of WBS creation. (使用 WBS 建立規則，將主要元件和子元件組織到選定的結構中) <br/>
-<img src="https://i.imgur.com/1NwFWYB.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KRqbMk6.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 5: Review our WBS for correctness, completeness, consistency, and clarity. (檢視 WBS 的正確性、完整性、一致性和清晰度) <br/>
-<img src="https://i.imgur.com/budqLQX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T0cKi3w.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Task 6: Create a WBS dictionary. (建立 WBS 字典) <br/>
-<img src="https://i.imgur.com/budqLQX.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/IOthpB3.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
   
 <h2>Reference 參考</h2>
